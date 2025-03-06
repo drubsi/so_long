@@ -1,0 +1,7 @@
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/mlx42.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/edit_cache.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/rebuild_cache.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/list_install_components.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/install.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/install/local.dir
+/home/david/Proyectos_42/Milestone_2/so_long/includes/MLX42/build/CMakeFiles/install/strip.dir
